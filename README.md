@@ -23,8 +23,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ```
 
 ## Screenshot
-![Main Page](./img/interactive-rating-component-01.png)
-![Thank You Page](./img/interactive-rating-component-02.png)
+![Main Page](./assets/img/interactive-rating-component-01.png)
+![Thank You Page](./assets/img/interactive-rating-component-02.png)
 
 ## Contributing
 
